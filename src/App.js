@@ -1,25 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import "./index.css";
+import About from "./Components/About";
+import CurrentEvent from "./Components/CurrentEvent";
+import Lineup from "./Components/Lineup";
+import GoogleForm from "./Components/GoogleForm";
+import Header from "./Components/Header";
+import FAQ from "./Components/FAQ";
+
+export default function App() {
+    return (
+        <div>
+            <div className="main">
+                <Header />
+                <CurrentEvent />
+                <About />
+                <Lineup />
+                <GoogleForm />
+                <FAQ />
+            </div>
+            <footer class="footer">
+                <p class="footer-text">
+                    <a href="https://waltersmatthew.vercel.app/">
+                        Website by Walt
+                    </a>
+                </p>
+            </footer>
+        </div>
+    );
 }
-
-export default App;
