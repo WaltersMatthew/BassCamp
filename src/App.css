@@ -245,6 +245,19 @@ h2 {
     }
 }
 
+.instagram-container {
+    max-width: 100%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.instagram-container iframe {
+    border: none;
+    width: 100%;
+    max-width: 320px;
+    height: 400px;
+}
+
 /* Responsive design */
 @media (max-width: 600px) {
     body {

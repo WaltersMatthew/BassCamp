@@ -38,9 +38,10 @@ export default function About() {
                 <li> and so many more.</li>
             </ul>
             <p>
-                We've come together to offer you an unparalleled experience here
-                on our home turf, in person, for one day before the biggest
-                audition of your life this fall.
+                These are THE heavy hitters in the activity, and we've come
+                together to offer you an unparalleled experience here on our
+                home turf, in person, for one day, before the biggest audition
+                of your life this fall.
             </p>
         </div>
     );

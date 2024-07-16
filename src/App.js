@@ -8,6 +8,7 @@ import GoogleForm from "./Components/GoogleForm";
 import Header from "./Components/Header";
 import FAQ from "./Components/FAQ";
 import Contact from "./Components/Contact";
+import Insta from "./Components/Insta";
 
 export default function App() {
     return (
@@ -19,6 +20,7 @@ export default function App() {
                 <Lineup />
                 <GoogleForm />
                 <FAQ />
+                <Insta />
                 <Contact />
             </div>
             <footer class="footer">
