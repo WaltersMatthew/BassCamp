@@ -38,10 +38,9 @@ export default function About() {
                 <li> and so many more.</li>
             </ul>
             <p>
-                We all live within about an hour of each other, so we wanted to
-                bring you the absolute best instruction, on our home turf, in
-                person, for one day before the biggest audition of your life
-                this coming fall.
+                We've come together to offer you an unparalleled experience here
+                on our home turf, in person, for one day before the biggest
+                audition of your life this fall.
             </p>
         </div>
     );

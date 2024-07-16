@@ -7,6 +7,7 @@ import Lineup from "./Components/Lineup";
 import GoogleForm from "./Components/GoogleForm";
 import Header from "./Components/Header";
 import FAQ from "./Components/FAQ";
+import Contact from "./Components/Contact";
 
 export default function App() {
     return (
@@ -18,6 +19,7 @@ export default function App() {
                 <Lineup />
                 <GoogleForm />
                 <FAQ />
+                <Contact />
             </div>
             <footer class="footer">
                 <p class="footer-text">
