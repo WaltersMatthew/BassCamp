@@ -20,17 +20,29 @@ const FAQ = () => {
                     </p>
                 </div>
                 <div className="qna">
-                    <p className="question">What do I need to bring?</p>
+                    <p className="question">What else do I need to bring?</p>
                     <p className="answer">
-                        Water, hat, sunscreen, earplugs, mallets. In that order
-                        of importance.
+                        Water, hat, sunscreen, earplugs, mallets, and the best
+                        attitude you've got.
+                    </p>
+                </div>
+                <div className="qna">
+                    <p className="question">But what will I WEAR??</p>
+                    <p className="answer">
+                        The most colorful funky outfit you own. I'm talking
+                        yellow hats, orange dickies, pink track pants, old-man
+                        hawaiian shirts, those neon green shoes in the back of
+                        your closet. If it's gaudy and an ugly pattern, we want
+                        to see it. This is camp, let's act like it.
                     </p>
                 </div>
                 <div className="qna">
                     <p className="question">How much is it?</p>
                     <p className="answer">
-                        Still trying to nail down those exact details. We'll let
-                        you know as soon as the information is set in stone
+                        The fees for the event will be $35 by itself or $55 with
+                        a T-shirt pre-order. The T-shirts will be $20 at the
+                        event, but we can't guarantee stock/sizes if not
+                        pre-ordered.
                     </p>
                 </div>
                 <div className="qna">
@@ -38,8 +50,8 @@ const FAQ = () => {
                     <p className="answer">
                         We will be releasing music closer to the event. It will
                         entirely written by our staff specifically for Bass Camp
-                        and hopefully be something that you can use as you
-                        continue your learning journey.
+                        and hopefully be something that you can use with other
+                        bass friends as you continue your learning journey.
                     </p>
                 </div>
                 <div className="qna">
@@ -53,8 +65,8 @@ const FAQ = () => {
                     <p className="question">Can my parents watch?</p>
                     <p className="answer">
                         Of course! This is an open camp, anyone is welcome to
-                        walk around and watch, but to participate you must be
-                        registered and paid up.
+                        walk around and watch, but to participate you must be a
+                        paying student.
                     </p>
                 </div>
             </div>
