@@ -20,10 +20,19 @@ const FAQ = () => {
                     </p>
                 </div>
                 <div className="qna">
+                    <p className="question">Will we be practicing marching?</p>
+                    <p className="answer">
+                        No! This will be strictly a music camp focused on
+                        getting your hands ready to show off in the coming
+                        audition season. We will not be marching or practicing
+                        movement.
+                    </p>
+                </div>
+                <div className="qna">
                     <p className="question">What else do I need to bring?</p>
                     <p className="answer">
-                        Water, hat, sunscreen, earplugs, mallets, and the best
-                        attitude you've got.
+                        Water, hat, comfy shoes, sunscreen, earplugs, mallets,
+                        and the best attitude you've got.
                     </p>
                 </div>
                 <div className="qna">
