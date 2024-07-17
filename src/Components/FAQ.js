@@ -40,7 +40,7 @@ const FAQ = () => {
                     <p className="question">How much is it?</p>
                     <p className="answer">
                         The fees for the event will be $35 by itself or $55 with
-                        a T-shirt pre-order. The T-shirts will be $20 at the
+                        a T-shirt pre-order. The T-shirts will be $25 at the
                         event, but we can't guarantee stock/sizes if not
                         pre-ordered.
                     </p>
@@ -49,9 +49,10 @@ const FAQ = () => {
                     <p className="question">What about music?</p>
                     <p className="answer">
                         We will be releasing music closer to the event. It will
-                        entirely written by our staff specifically for Bass Camp
-                        and hopefully be something that you can use with other
-                        bass friends as you continue your learning journey.
+                        be entirely written by our staff, specifically for Bass
+                        Camp, and hopefully be something that you can use with
+                        other bass friends as you continue your learning
+                        journey.
                     </p>
                 </div>
                 <div className="qna">

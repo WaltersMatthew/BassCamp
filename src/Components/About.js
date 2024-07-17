@@ -3,23 +3,22 @@ import React from "react";
 export default function About() {
     return (
         <div className="about">
+            <h2>Our Mission Statement:</h2>
             <div className="about-p">
-                Bass Camp is a first of its kind clinic based around the idea
-                that all bass drumming is good bass drumming. We have a highly
-                decorated staff of lifelong bass drummers that teach at the
-                higest level in the DCI and WGI activities. Bass Camp is not
-                associated with any organization or drumline, we are just a
-                group hard-working instructors that want to give back to the
-                community that has given us so much.
+                At Bass Camp, we are dedicated to advancing the art of bass
+                drumming in all its diversity. Our mission is to unite top
+                drummers from all backgrounds, fostering skill development,
+                while ensuring the safety and enjoyment of our students and
+                staff. Independent of specific affiliations, we are driven by a
+                commitment to community building and educational excellence.
             </div>
             <p className="about-p">
-                We all live and breathe bass drum. If there's a Southern
-                California bassline you've seen in the last 25 years, there's a
-                good chance that you either saw us, or saw our students
-                performing. And not to brag, but between us, we've racked up
-                quite a bit of hardware in the process. These are the people you
-                see tuning the drums and clicking the sticks for the best
-                basslines in DCI and WGI.{" "}
+                We live and breathe bass drum. If there's a Southern California
+                bassline you've seen in the last 25 years, there's a good chance
+                that you either saw us, or saw our students performing. And not
+                to brag, but between us, we've racked up quite a bit of hardware
+                in the process. These are the people you see tuning the drums
+                and clicking the sticks for the best basslines in DCI and WGI.{" "}
             </p>
 
             <h2>What kind of hardware are we talking here?</h2>
