@@ -39,10 +39,14 @@ const FAQ = () => {
                 <div className="qna">
                     <p className="question">How much is it?</p>
                     <p className="answer">
-                        The fees for the event will be $35 by itself or $55 with
-                        a T-shirt pre-order. The T-shirts will be $25 at the
-                        event, but we can't guarantee stock/sizes if not
-                        pre-ordered.
+                        The ticketing site can be found{" "}
+                        <span>
+                            <a href="https://www.eventbrite.com/e/bass-camp-registration-948956794317?aff=oddtdtcreator">
+                                HERE!
+                            </a>
+                        </span>
+                        Make sure to sign up early, as supplies and pricing will
+                        change as we get closer to the event.
                     </p>
                 </div>
                 <div className="qna">
