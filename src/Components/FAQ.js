@@ -53,7 +53,7 @@ const FAQ = () => {
                             <a href="https://www.eventbrite.com/e/bass-camp-registration-948956794317?aff=oddtdtcreator">
                                 HERE!
                             </a>
-                        </span>
+                        </span>{" "}
                         Make sure to sign up early, as supplies and pricing will
                         change as we get closer to the event.
                     </p>
