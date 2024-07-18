@@ -17,6 +17,9 @@ export default function Lineup() {
                 {/* <li>Nick Parsons</li> */}
                 <li>Matt Gonzalez</li>
                 <li>Matt Walters</li>
+                <li>Richie Rodriguez</li>
+                <li>Grayson Hueser</li>
+
                 <li>
                     ...and any other cool bass friends we've made along the way.
                 </li>

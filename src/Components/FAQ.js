@@ -45,7 +45,7 @@ const FAQ = () => {
                         to see it. This is camp, let's act like it.
                     </p>
                 </div>
-                <div className="qna">
+                {/* <div className="qna">
                     <p className="question">How much is it?</p>
                     <p className="answer">
                         The ticketing site can be found{" "}
@@ -57,7 +57,7 @@ const FAQ = () => {
                         Make sure to sign up early, as supplies and pricing will
                         change as we get closer to the event.
                     </p>
-                </div>
+                </div> */}
                 <div className="qna">
                     <p className="question">What about music?</p>
                     <p className="answer">
@@ -66,6 +66,17 @@ const FAQ = () => {
                         Camp, and hopefully be something that you can use with
                         other bass friends as you continue your learning
                         journey.
+                    </p>
+                </div>
+                <div className="qna">
+                    <p className="question">
+                        I play snare, can I bring my drum?
+                    </p>
+                    <p className="answer">
+                        NOPE! No snares, tenors, or keyboard instruments. But if
+                        you want to play bass with us, we'd love to have you,
+                        and you're more than welcome to register and learn some
+                        bass drum!
                     </p>
                 </div>
                 <div className="qna">

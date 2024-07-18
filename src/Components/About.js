@@ -30,6 +30,7 @@ export default function About() {
                 <p> (Yes those come first, I get to be biased here.)</p>
                 <p>okay, alphabetically...</p>
                 <li> Ayala</li>
+                <li> Arcadia</li>
                 <li> Broken City</li>
                 <li> Bluecoats</li>
                 <li> Carolina Crown</li>
