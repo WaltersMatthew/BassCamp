@@ -11,7 +11,6 @@ export default function Lineup() {
             <ul>
                 <li>Adrian Gonzalez</li>
                 <li>Caleb Gasteiger</li>
-                <li>Dan Wahl</li>
                 <li>Elliott Duran</li>
                 <li>Jacob Wetzel</li>
                 <li>Joey Martinez</li>
