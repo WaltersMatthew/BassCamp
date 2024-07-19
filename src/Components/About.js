@@ -34,7 +34,7 @@ export default function About() {
                 <li> Broken City</li>
                 <li> Bluecoats</li>
                 <li> Carolina Crown</li>
-                {/* <li> Cavaliers</li> */}
+                <li> Cavaliers</li>
                 <li> Chino Hills</li>
                 <li> Pulse</li>
                 <li> Santa Clara Vanguard</li>
