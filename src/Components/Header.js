@@ -6,7 +6,7 @@ export default function Header() {
             <p className="title">Bass Camp</p>
             <div className="google-form-button-container">
                 <a
-                    href="https://docs.google.com/forms/d/e/1FAIpQLSeairSQ4wzxcC_FU8oYamYsdV6EY60R1RDR3nq7MB4B8ppHxg/viewform"
+                    href="https://www.eventbrite.com/e/bass-camp-registration-948956794317?aff=oddtdtcreator"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="google-form-button"
