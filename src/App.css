@@ -98,7 +98,7 @@ h2 {
 }
 
 /* Google Form button section */
-.google-form-button-container {
+.button-container {
     margin-bottom: 40px;
     text-align: center;
 }
@@ -111,17 +111,17 @@ h2 {
     text-shadow: 2px 2px #ffa500; /* Orange shadow */
 }
 
-.google-form-button {
+.button {
     display: inline-block;
-    padding: 15px 25px;
-    font-size: 1.5rem;
-    color: #fff;
-    background-color: #ff69b4; /* Hot pink */
+    padding: 15px 25px !important;
+    font-size: 1.5rem !important;
+    color: #fff !important;
+    background-color: #ff69b4 !important; /* Hot pink */
     border: none;
-    border-radius: 10px;
+    border-radius: 10px !important;
     text-decoration: none;
-    text-shadow: 2px 2px #ffa500; /* Orange shadow */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-shadow: 2px 2px #ffa500 !important; /* Orange shadow */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
     transition: background-color 0.3s ease;
 }
 
