@@ -12,13 +12,14 @@ export default function Lineup() {
                 <li>Adrian Gonzalez</li>
                 <li>Caleb Gasteiger</li>
                 <li>Elliott Duran</li>
+                <li>Grayson Hueser</li>
                 <li>Jacob Wetzel</li>
                 <li>Joey Martinez</li>
                 {/* <li>Nick Parsons</li> */}
                 <li>Matt Gonzalez</li>
                 <li>Matt Walters</li>
+                <li>Melannie Stakely</li>
                 <li>Richie Rodriguez</li>
-                <li>Grayson Hueser</li>
                 <li>
                     ...and any other cool bass friends we've made along the way.
                 </li>

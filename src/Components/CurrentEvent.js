@@ -7,8 +7,9 @@ function CurrentEvent() {
                 <p>Where: Ayala High School in Chino Hills, California</p>
                 <p>When: September 7th, 2024, from 10 AM to 9 PM</p>
                 <p>
-                    How much: Ticket pricing will be announced when they go on
-                    sale.
+                    How much: $35 for earlybird, +$20 for T-shirt preorder, +$50
+                    for VIP experience (T-shirt preorder and 30min 1-on-1 lesson
+                    during Camp)
                 </p>
             </div>
             <iframe

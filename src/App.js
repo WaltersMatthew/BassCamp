@@ -9,6 +9,7 @@ import Header from "./Components/Header";
 import FAQ from "./Components/FAQ";
 import Contact from "./Components/Contact";
 import Insta from "./Components/Insta";
+import EventbriteLink from "./Components/EventbriteLink";
 
 export default function App() {
     return (
@@ -18,7 +19,7 @@ export default function App() {
                 <CurrentEvent />
                 <About />
                 <Lineup />
-                <GoogleForm />
+                <EventbriteLink />
                 <FAQ />
                 <Insta />
                 <Contact />
