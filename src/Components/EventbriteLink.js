@@ -9,7 +9,7 @@ const EventbriteLink = () => {
                 sign up for the VIP experience that includes a 30 minute private
                 lesson with one of our instructors.
             </p>
-            <div className="google-form-button-container">
+            <div className="google-form-button">
                 <a href="https://www.eventbrite.com/e/bass-camp-registration-948956794317?aff=oddtdtcreator">
                     Registration Page
                 </a>
