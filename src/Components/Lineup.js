@@ -15,7 +15,7 @@ export default function Lineup() {
                 <li>Grayson Hueser</li>
                 <li>Jacob Wetzel</li>
                 <li>Joey Martinez</li>
-                {/* <li>Nick Parsons</li> */}
+                <li>Nick Parsons</li>
                 <li>Matt Gonzalez</li>
                 <li>Matt Walters</li>
                 <li>Melannie Stakely</li>
