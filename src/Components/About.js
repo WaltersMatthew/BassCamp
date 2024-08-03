@@ -21,7 +21,7 @@ export default function About() {
             <h2>Who are we?</h2>
             <p className="about-p">
                 We live and breathe bass drum. If there's a Southern California
-                bassline you've seen in the last 25 years, there's a good chance
+                bassline you've seen in the last 15 years, there's a good chance
                 that you either saw us, or saw our students performing. And not
                 to brag, but between us, we've racked up quite a bit of hardware
                 in the process. These are the people you see tuning the drums
