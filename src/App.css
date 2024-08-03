@@ -17,6 +17,15 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border: 5px solid #ff69b4; /* Hot pink border */
 }
+/* Header section */
+.header-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.header-font {
+    width: 400px;
+}
 
 /* About section */
 .about {
@@ -55,7 +64,20 @@ h2 {
     margin-bottom: 20px;
     text-align: justify;
 }
-
+.character-wrapper {
+    display: flex;
+    justify-content: center;
+}
+.character-wrapper img {
+    width: 200px;
+}
+.faceless-wrapper {
+    display: flex;
+    justify-content: center;
+}
+.faceless-wrapper img {
+    width: 200px;
+}
 .hardware-list {
     list-style: none;
     padding-left: 0;
@@ -254,8 +276,8 @@ h2 {
 .instagram-container iframe {
     border: none;
     width: 100%;
-    max-width: 320px;
-    height: 400px;
+    max-width: 800px;
+    height: 800px;
 }
 
 /* Responsive design */

@@ -3,6 +3,12 @@ import React from "react";
 export default function About() {
     return (
         <div className="about">
+            <div className="character-wrapper">
+                <img
+                    src="../CharacterFace.png"
+                    alt="a chartoon character of a bass drum playing his own belly"
+                />
+            </div>
             <h2>Our Mission Statement:</h2>
             <div className="about-p">
                 At Bass Camp, we are dedicated to advancing the art of bass

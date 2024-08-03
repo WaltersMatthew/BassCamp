@@ -3,7 +3,13 @@ import React from "react";
 const EventbriteLink = () => {
     return (
         <div className="contact-container">
-            <h2>Register Here!</h2>
+            <h2>Get Signed Up!</h2>
+            <div className="faceless-wrapper">
+                <img
+                    src="../FacelessLogo.png"
+                    alt="a cartoon bass drum with the words 'bass camp' on the drumhead"
+                />
+            </div>
             <p>
                 Use our Eventbrite page to register, pre-order your t-shirt, or
                 sign up for the VIP experience that includes a 30 minute private
