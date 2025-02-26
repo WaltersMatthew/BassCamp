@@ -16,10 +16,10 @@ export default function App() {
         <div>
             <div className="main">
                 <Header />
-                <CurrentEvent />
+                {/* <CurrentEvent /> */}
                 <About />
                 <Lineup />
-                <EventbriteLink />
+                {/* <EventbriteLink /> */}
                 <FAQ />
                 <Insta />
                 <Contact />
