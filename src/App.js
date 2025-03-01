@@ -27,8 +27,9 @@ export default function App() {
             <footer class="footer">
                 <p class="footer-text">
                     <a href="https://waltersmatthew.vercel.app/">
-                        Website by Walt, all art by Lauryn Bremner
+                        Website by Walt,
                     </a>
+                    all art by Lauryn Bremner
                 </p>
             </footer>
         </div>
