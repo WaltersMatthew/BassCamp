@@ -14,7 +14,7 @@ function CurrentEvent() {
                     30min 1-on-1 lesson during Camp)
                 </p>
             </div>
-            <iframe
+            {/* <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.9203383200343!2d-117.73409582428594!3d33.99457987317868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c332ac0210843b%3A0x29d10f89e979d176!2sRuben%20S.%20Great%20Oak%20High%20School!5e0!3m2!1sen!2sus!4v1721087665452!5m2!1sen!2sus"
                 width="600"
                 height="450"
@@ -24,7 +24,7 @@ function CurrentEvent() {
                 allowfullscreen=""
                 loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"
-            ></iframe>
+            ></iframe> */}
         </div>
     );
 }
