@@ -17,7 +17,7 @@ const EventbriteLink = () => {
             </p>
             <div className="button-container">
                 <a
-                    href="https://www.eventbrite.com/e/bass-camp-registration-948956794317?aff=oddtdtcreator"
+                    href="https://www.eventbrite.com/e/bass-camp-2025-registration-1528673045229"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="button"

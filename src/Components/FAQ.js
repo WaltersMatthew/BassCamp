@@ -44,19 +44,19 @@ const FAQ = () => {
                         to see it. This is camp, let's act like it.
                     </p>
                 </div>
-                {/* <div className="qna">
+                <div className="qna">
                     <p className="question">How much is it?</p>
                     <p className="answer">
                         The ticketing site can be found{" "}
                         <span>
-                            <a href="https://www.eventbrite.com/e/bass-camp-registration-948956794317?aff=oddtdtcreator">
+                            <a href="https://www.eventbrite.com/e/bass-camp-2025-registration-1528673045229">
                                 HERE!
                             </a>
                         </span>{" "}
                         Make sure to sign up early, as supplies and pricing will
                         change as we get closer to the event.
                     </p>
-                </div> */}
+                </div>
                 <div className="qna">
                     <p className="question">What about music?</p>
                     <p className="answer">
