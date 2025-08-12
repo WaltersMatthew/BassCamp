@@ -7,7 +7,6 @@ const FAQ = () => {
             <div className="faq-content">
                 <p>
                     We covered the where and the when up top so here's more info
-                    <div> (9/7/24, 10a-9p @ Ayala. In case you forgot)</div>
                 </p>
 
                 <div className="qna">

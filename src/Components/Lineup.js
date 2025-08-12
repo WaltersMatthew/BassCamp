@@ -9,17 +9,15 @@ export default function Lineup() {
                 (Because I could never rank them in my heart,) Alphabetically:
             </p>
             <ul>
-                <li>Adrian Gonzalez, Pulse/Dark Sky</li>
-                <li>Caleb Gasteiger, RCC</li>
+                <li>Adrian Gonzalez, RCC</li>
+                <li>Bethany Betancourt, Ayala/Vista Murrietta</li>
                 <li>Elliott Duran, Ayala</li>
+                <li>Gilbert Nazari, Blue Devils</li>
                 <li>Grayson Hueser, Arcadia</li>
                 <li>Jacob Wetzel, Pulse/Chino Hills</li>
-                <li>Joey Martinez, Cavaliers</li>
+                <li>Jonny Green, Santa Clara Vanguard</li>
                 <li>Nick Parsons, Blue Devils</li>
-                <li>Matt Gonzalez, Broken City/Carolina Crown</li>
-                <li>Matt Walters, Broken City</li>
-                <li>Melannie Stakely</li>
-                <li>Richie Rodriguez, Santa Clara Vanguard</li>
+                <li>Roye Fang, Broken City</li>
                 <li>
                     ...and any other cool bass friends we've made along the way.
                 </li>
